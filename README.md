@@ -3,7 +3,7 @@
 **Future Interns | Full Stack Web Development | Task 3**
 
 **Live Demo:** [https://neela-jewellery-plum.vercel.app](https://neela-jewellery-plum.vercel.app)  
-**GitHub:** [https://github.com/nishandhineePalanivel/FUTURE_FS_03](https://github.com/nishandhineePalanivel/FUTURE_FS_03)
+
 
 ---
 
